@@ -7,4 +7,4 @@ reusuable codes will be also here, so that most important ones can be practiced.
 2) merging them in ascending order
 3) Stack implementation with STL
 4) Next greater element in loop
-   
+5) Adding two LL(Reverse+adding logic)
