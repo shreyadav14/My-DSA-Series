@@ -1,5 +1,5 @@
 # My-DSA-Series
-Sometimes. even though i want to update i totally forget to do it, but i'll to update more
+
 
 
 The DSA problems which are not accesssible, most important, or locked will be here, with proper understanding. Most importantly , the DSA questions which are most important and reusable in different other codes.
