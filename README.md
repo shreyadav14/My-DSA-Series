@@ -10,3 +10,5 @@ reusuable codes will be also here, so that most important ones can be practiced.
 4) Next greater element in loop
 5) Adding two LL(Reverse+adding logic)
 6) Binary Search revision 
+7) Binary search Tree
+8) Hashing
