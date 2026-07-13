@@ -12,3 +12,4 @@ reusuable codes will be also here, so that most important ones can be practiced.
 6) Binary Search revision 
 7) Binary search Tree
 8) Hashing
+9) Along with TCS practice coding questionz
